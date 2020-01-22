@@ -1,0 +1,7 @@
+D:\Bootcamp\Visual Studio\Latihan1\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+D:\Bootcamp\Visual Studio\Latihan1\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+D:\Bootcamp\Visual Studio\Latihan1\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+D:\Bootcamp\Visual Studio\Latihan1\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojAssemblyReference.cache
+D:\Bootcamp\Visual Studio\Latihan1\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Visual Studio\Latihan1\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+D:\Bootcamp\Visual Studio\Latihan1\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

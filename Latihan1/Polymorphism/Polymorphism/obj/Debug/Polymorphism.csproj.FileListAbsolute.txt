@@ -1,0 +1,7 @@
+D:\Bootcamp\Visual Studio\Latihan1\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+D:\Bootcamp\Visual Studio\Latihan1\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+D:\Bootcamp\Visual Studio\Latihan1\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+D:\Bootcamp\Visual Studio\Latihan1\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojAssemblyReference.cache
+D:\Bootcamp\Visual Studio\Latihan1\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Visual Studio\Latihan1\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+D:\Bootcamp\Visual Studio\Latihan1\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
